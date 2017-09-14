@@ -1,13 +1,12 @@
 ---
 layout: post
-title: first try!
+title: 每日记录
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+> 在还没有完善好博客的时候，就开始应用实在不是一件好事情，但是目前又不太想完善，所以先用着看吧。
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## 20170914
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+今日计划：论文、英语口语练习、英语单词、准备博士相关事情、锻炼身体
 
-
-喵喵喵喵
+不知名的感悟：emmmmmm，今天中午炒菜炒了超多土豆，明天可以吃剩菜好开心。
